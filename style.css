@@ -1,0 +1,27 @@
+body {
+  margin-left: 17%;
+  margin-right: 17%;
+  background-color: #5E5E5E
+}
+#contact {
+  background-color: #404040;
+  padding: 2%;
+}
+h1 {
+  color: white;
+  margin-left: 38%;
+  padding: 2%;
+}
+#address {
+  color: white;
+  font-style: italic;
+}
+.job {
+  background-color: white;
+  padding: 1%;
+  padding-left: 3%;
+}
+h2 {
+  text-align: center;
+  color: white;
+}
